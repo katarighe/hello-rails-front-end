@@ -15,6 +15,7 @@
   - [Install](#install)
   - [Usage](#usage)
 - [👥 Author](#author)
+- [🔭 Future Features ](#future-features)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
@@ -109,6 +110,16 @@ $ npm start
 - LinkedIn: [@mighe](https://linkedin.com/in/mighe)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 🔭 Future Features <a name="future-features"></a>
+
+Here are some future features that could be added to the Hello Rails Frontend app in the future.
+
+- **Improve the overall UX / UI design**
+
+These are just a few ideas for future features that could be added to the Hello Rails Frontend app. 
+
+The specific features that are added will depend on the needs and wants of the users.
 
 ## 🤝 Contributing <a name="contributing"></a>
 
