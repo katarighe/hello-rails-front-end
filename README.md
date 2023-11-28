@@ -24,7 +24,7 @@
 
 **Hello Rails Front End** is an app created by a React front-end with a Rails back-end and connect them together to display a random message.
 
-Back-End: [Hello-Rails-Back-End](https://github.com/katarighe/hello-rails-back-end-end)
+Back-End: [Hello-Rails-Back-End](https://github.com/katarighe/hello-rails-back-end)
 
 ## 🛠 Built With <a name="built-with"></a>
 
